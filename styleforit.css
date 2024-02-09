@@ -1,0 +1,34 @@
+body{
+    background: #52901c;
+    background-blend-mode: soft-light;
+    border: 5px solid green;
+    border-style: dotted;
+    border-radius: 20px;
+}
+b{border: 5px solid gold;}
+
+legend{
+    text-align: center;
+    background-color: aqua;
+    border-radius: 20px;
+}
+
+fieldset{ 
+    border-radius: 20px;
+    background-color: rgb(128, 160, 80);
+}
+
+input {
+    color: rgb(18, 33, 196);
+    background: hotpink;
+    font-size: 15px;
+    border-radius: 15px;
+    padding: 5px;
+}
+hr{
+    height: 10px;
+    background: rgb(33, 188, 62);
+}
+marquee{color: Gold;
+font-size: 60px;
+}
